@@ -13,3 +13,4 @@
 2. [中后台开发必修课：Vue 项目中 Pinia 与 Router 完全攻略](https://github.com/QFifteen/Blog/issues/2)
 3. [用了这些 Vite 配置技巧，同事都以为我开挂了](https://github.com/QFifteen/Blog/issues/3)
 4. [受够了团队代码风格不统一？7千字教你从零搭建代码规范体系](https://github.com/QFifteen/Blog/issues/4)
+5. [开发者必看！在团队中我是这样实现 Git 提交规范化的](https://github.com/QFifteen/Blog/issues/5)
