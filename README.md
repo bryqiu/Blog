@@ -3,6 +3,8 @@
 
 文章写在 issues 里，通过下面目录查看归类文章或者[点我查看全部文章](https://github.com/QFifteen/Blog/issues)
 
+>你还可以在这里找到我：[掘金](https://juejin.cn/user/343495027727229/posts) | [思否](https://segmentfault.com/u/qfifteen)
+
 ## 目录
 
 ### JavaScript 进阶秘籍系列
