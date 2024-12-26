@@ -19,3 +19,4 @@
 4. [受够了团队代码风格不统一？7千字教你从零搭建代码规范体系](https://github.com/QFifteen/Blog/issues/4)
 5. [开发者必看！在团队中我是这样实现 Git 提交规范化的](https://github.com/QFifteen/Blog/issues/5)
 6. [告别繁琐！Vue3 组合式函数解锁 Echarts 封装新姿势](https://github.com/QFifteen/Blog/issues/6)
+7. [彻底搞懂面包屑，手把手封装一个 Vue3 面包屑导航组件](https://github.com/QFifteen/Blog/issues/7)
