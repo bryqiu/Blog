@@ -10,7 +10,7 @@
 ### 我的文章
 
 ### JavaScript 内功系列
-1. [简析 JavaScript 判断数据类型的四种方式](https://github.com/QFifteen/Blog/issues/8)
+1. [【JavaScript内功系列】简析判断数据类型的四种方式](https://github.com/QFifteen/Blog/issues/8)
 
 ### 《通俗易懂的中后台系统建设指南》专栏
 1. [收下这份 Vue + TS + Vite 中后台系统搭建指南，从此不再害怕建项目](https://github.com/QFifteen/Blog/issues/1)
