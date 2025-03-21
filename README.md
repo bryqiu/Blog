@@ -16,6 +16,8 @@
 ##### 异步编程篇
 [【JavaScript内功系列】理解同步异步与 Promise 异步编程](https://github.com/QFifteen/Blog/issues/9)
 
+[【JavaScript内功系列】图解 Event Loop 事件循环机制](https://github.com/QFifteen/Blog/issues/10)
+
 ### 《通俗易懂的中后台系统建设指南》专栏
 1. [收下这份 Vue + TS + Vite 中后台系统搭建指南，从此不再害怕建项目](https://github.com/QFifteen/Blog/issues/1)
 2. [中后台开发必修课：Vue 项目中 Pinia 与 Router 完全攻略](https://github.com/QFifteen/Blog/issues/2)
