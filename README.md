@@ -9,14 +9,14 @@
 
 ### 我的文章
 
-### 《JavaScript 内功系列》
+### 参透 JavaScript 系列
 
-[【JavaScript内功系列】简析判断数据类型的四种方式](https://github.com/bryqiu/Blog/issues/8)
+- [参透JavaScript —— 判断数据类型的四种方式](https://github.com/bryqiu/Blog/issues/8)
 
 ##### 异步编程篇
-[【JavaScript内功系列】理解同步异步与 Promise 异步编程](https://github.com/bryqiu/Blog/issues/9)
 
-[【JavaScript内功系列】图解 Event Loop 事件循环机制](https://github.com/bryqiu/Blog/issues/10)
+- [参透JavaScript —— 异步编程与Promise](https://github.com/bryqiu/Blog/issues/9)
+- [参透JavaScript —— 图解 Event Loop 事件循环](https://github.com/bryqiu/Blog/issues/10)
 
 ### 《通俗易懂的中后台系统建设指南》专栏
 1. [收下这份 Vue + TS + Vite 中后台系统搭建指南，从此不再害怕建项目](https://github.com/bryqiu/Blog/issues/1)
