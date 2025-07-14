@@ -12,6 +12,7 @@
 ### 参透 JavaScript 系列
 
 - [参透JavaScript —— 判断数据类型的四种方式](https://github.com/bryqiu/Blog/issues/8)
+- [参透JavaScript —— 花十分钟搞懂作用域](https://github.com/bryqiu/Blog/issues/11)
 
 ##### 异步编程篇
 
