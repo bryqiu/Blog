@@ -27,3 +27,4 @@
 5. [开发者必看！在团队中我是这样实现 Git 提交规范化的](https://github.com/bryqiu/Blog/issues/5)
 6. [告别繁琐！Vue3 组合式函数解锁 Echarts 封装新姿势](https://github.com/bryqiu/Blog/issues/6)
 7. [彻底搞懂面包屑，手把手封装一个 Vue3 面包屑导航组件](https://github.com/bryqiu/Blog/issues/7)
+8. [一篇文章实现 Element Plus 动态切换主题色](https://github.com/bryqiu/Blog/issues/12)
