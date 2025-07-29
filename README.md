@@ -11,13 +11,10 @@
 
 ### 参透 JavaScript 系列
 
-- [参透JavaScript —— 判断数据类型的四种方式](https://github.com/bryqiu/Blog/issues/8)
-- [参透JavaScript —— 花十分钟搞懂作用域](https://github.com/bryqiu/Blog/issues/11)
-
 ##### 异步编程篇
 
-- [参透JavaScript —— 异步编程与Promise](https://github.com/bryqiu/Blog/issues/9)
-- [参透JavaScript —— 图解 Event Loop 事件循环](https://github.com/bryqiu/Blog/issues/10)
+- [异步编程与Promise](https://github.com/bryqiu/Blog/issues/9)
+- [图解 Event Loop 事件循环](https://github.com/bryqiu/Blog/issues/10)
 
 ### 《通俗易懂的中后台系统建设指南》专栏
 1. [收下这份 Vue + TS + Vite 中后台系统搭建指南，从此不再害怕建项目](https://github.com/bryqiu/Blog/issues/1)
