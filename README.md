@@ -10,8 +10,7 @@
 ### 我的文章
 
 ### 参透 JavaScript 系列
-
-##### 异步编程篇
+- [彻底理解原型与原型链](https://github.com/bryqiu/Blog/issues/13)
 
 - [异步编程与Promise](https://github.com/bryqiu/Blog/issues/9)
 - [图解 Event Loop 事件循环](https://github.com/bryqiu/Blog/issues/10)
