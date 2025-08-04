@@ -11,6 +11,7 @@
 
 ### 参透 JavaScript 系列
 - [彻底理解原型与原型链](https://github.com/bryqiu/Blog/issues/13)
+- [彻底理解 new 操作符及手写实现](https://github.com/bryqiu/Blog/issues/14)
 
 - [异步编程与Promise](https://github.com/bryqiu/Blog/issues/9)
 - [图解 Event Loop 事件循环](https://github.com/bryqiu/Blog/issues/10)
