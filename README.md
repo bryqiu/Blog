@@ -25,3 +25,4 @@
 6. [告别繁琐！Vue3 组合式函数解锁 Echarts 封装新姿势](https://github.com/bryqiu/Blog/issues/6)
 7. [彻底搞懂面包屑，手把手封装一个 Vue3 面包屑导航组件](https://github.com/bryqiu/Blog/issues/7)
 8. [一篇文章实现 Element Plus 动态切换主题色](https://github.com/bryqiu/Blog/issues/12)
+9. [Tailwind Css 中使用 Element Plus 主题系统的方案与实现](https://github.com/bryqiu/Blog/issues/15)
