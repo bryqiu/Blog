@@ -1,21 +1,20 @@
 ## Blog
+
 十五的博客仓库，在这里写点文章和个人碎碎念，欢迎 star
 
-文章写在 issues 里，通过下面目录查看归类文章或者[点我查看全部文章](https://github.com/bryqiu/Blog/issues)
+## 文章列表
 
->你还可以在这里找到我：[掘金](https://juejin.cn/user/343495027727229/posts) | [思否](https://segmentfault.com/u/Qfifteen)
-
-## 目录
-
-### 我的文章
-
-### 参透 JavaScript 系列
+### 理解 JavaScript
 - [彻底理解原型与原型链](https://github.com/bryqiu/Blog/issues/13)
-- [彻底理解 new 操作符及手写实现](https://github.com/bryqiu/Blog/issues/14)
-
 - [图解 Event Loop 事件循环](https://github.com/bryqiu/Blog/issues/10)
 
-- [解析浅拷贝、深拷贝及手写实现](https://github.com/bryqiu/Blog/issues/16)
+<details>
+<summary>🤘 JavaScript 手撕代码(点击展开)</summary> 
+  
+  * [new 操作符实现](https://www.google.com)
+  * [深浅拷贝理解与实现](https://www.google.com)
+
+</details>
 
 ### 《通俗易懂的中后台系统建设指南》专栏
 1. [收下这份 Vue + TS + Vite 中后台系统搭建指南，从此不再害怕建项目](https://github.com/bryqiu/Blog/issues/1)
