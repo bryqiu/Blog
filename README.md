@@ -11,8 +11,8 @@
 <details>
 <summary>🤘 JavaScript 手撕代码(点击展开)</summary> 
   
-  * [new 操作符实现](https://www.google.com)
-  * [深浅拷贝理解与实现](https://www.google.com)
+  * [new 操作符实现](https://github.com/bryqiu/Blog/blob/main/JavaScript%20%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81/new%20%E6%93%8D%E4%BD%9C%E7%AC%A6%E5%AE%9E%E7%8E%B0.md)
+  * [深浅拷贝理解与实现](https://github.com/bryqiu/Blog/blob/main/JavaScript%20%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81/%E6%B7%B1%E6%B5%85%E6%8B%B7%E8%B4%9D%E7%90%86%E8%A7%A3%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
 
 </details>
 
