@@ -16,6 +16,8 @@
   * [数组去重](https://github.com/bryqiu/Blog/blob/main/JavaScript%20%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81/%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D.md)
   * [数组扁平化](https://github.com/bryqiu/Blog/blob/main/JavaScript%20%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81/%E6%95%B0%E7%BB%84%E6%89%81%E5%B9%B3%E5%8C%96.md)
   * [防抖函数](http://github.com/bryqiu/Blog/blob/main/JavaScript%20%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81/%E9%98%B2%E6%8A%96%E5%87%BD%E6%95%B0.md)
+  * [节流函数](https://github.com/bryqiu/Blog/blob/main/JavaScript%20%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81/%E8%8A%82%E6%B5%81%E5%87%BD%E6%95%B0.md)
+
 
 </details>
 
