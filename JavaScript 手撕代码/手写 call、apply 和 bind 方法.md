@@ -25,7 +25,7 @@ function myCall(context, ...args) {
   // 如果函数不在严格模式下，null 和 undefined 将被替换为全局对象，并且原始值将被转换为对象
   context =
     context === null || context === undefined
-      ? (context = window)
+      ? window
       : Object(context);
 
   // Symbol 生成一个独一无二的 key，避免覆盖原有属性
@@ -77,7 +77,7 @@ getName.myCall(obj, "hey"); // hey bryan
 function myApply(context, args) {
   context =
     context === null || context === undefined
-      ? (context = window)
+      ? window
       : Object(context);
 
   const key = Symbol("fn");
