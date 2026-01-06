@@ -2,6 +2,9 @@
 
 十五的博客仓库，在这里写点文章和个人碎碎念，欢迎 star
 
+>文章同步在 [稀土掘金](https://juejin.cn/user/343495027727229/posts)  |  [SegmentFault 思否](https://segmentfault.com/u/qfifteen/articles)
+
+
 ## 文章列表
 
 ### 理解 JavaScript
