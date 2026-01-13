@@ -21,6 +21,8 @@
   * [防抖函数](http://github.com/bryqiu/Blog/blob/main/JavaScript%20%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81/%E9%98%B2%E6%8A%96%E5%87%BD%E6%95%B0.md)
   * [节流函数](https://github.com/bryqiu/Blog/blob/main/JavaScript%20%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81/%E8%8A%82%E6%B5%81%E5%87%BD%E6%95%B0.md)
   * [手写实现 call、apply 和 bind 方法](https://github.com/bryqiu/Blog/blob/main/JavaScript%20%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81/%E6%89%8B%E5%86%99%20call%E3%80%81apply%20%E5%92%8C%20bind%20%E6%96%B9%E6%B3%95.md)
+  * [数组元素出现的次数](https://github.com/bryqiu/Blog/blob/main/JavaScript%20%E6%89%8B%E6%92%95%E4%BB%A3%E7%A0%81/%E6%95%B0%E7%BB%84%E5%85%83%E7%B4%A0%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0.md)
+
 
 
 </details>
