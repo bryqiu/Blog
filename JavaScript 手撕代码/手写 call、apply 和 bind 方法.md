@@ -106,7 +106,7 @@ getName.myApply(obj, ["hey"]); // hey bryan
 
 - 要返回一个函数，供调用
 - 传入两个参数：`context` 改变 this 指向的值，`args` 函数参数
-- 函数柯里化，`args` 接收预设参数，`innerArgs` 是返回函数执行时传入的参数，`args` 参数在前，`innerArgs` 参数排后面
+- 偏函数应用，`args` 接收一部分参数，`innerArgs` 是返回函数传入的参数，固定住 `args` 参数，再接上 `innerArgs` 参数
 
 ```js
 /**
