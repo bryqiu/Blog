@@ -36,3 +36,6 @@
 6. [彻底搞懂面包屑，手把手封装一个 Vue3 面包屑导航组件](https://github.com/bryqiu/Blog/issues/7)
 7. [一篇文章实现 Element Plus 动态切换主题色](https://github.com/bryqiu/Blog/issues/12)
 8. [Tailwind Css 中使用 Element Plus 主题系统的方案与实现](https://github.com/bryqiu/Blog/issues/15)
+9. [RBAC 权限系统实战（一）：页面级访问控制全解析](https://github.com/bryqiu/Blog/issues/17)
+10. [RBAC 权限系统实战（二）：权限信息管理的设计](https://github.com/bryqiu/Blog/issues/18)
+11. [RBAC 权限系统实战（三）：细粒度的权限控制](https://github.com/bryqiu/Blog/issues/19)
